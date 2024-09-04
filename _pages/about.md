@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Hi, I'm Buğra.**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a 32-year-old game developer and have been working at [Twenty Games](https://twenty.games), a mobile game company I co-founded, for the past four years. Before that, I worked as a solo developer for one and a half years. At **Twenty Games**, we developed hit games that have reached millions of users worldwide, most notably *Makeup Kit* and *Pasta Fever*.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I enjoy creating games that feel great to play, with clean, easy-to-read code. While I am a developer at heart, I have specialized in the mobile game development process as a whole—from ideation to post-launch monetization. I have also prepared game economies using Excel sheets to ensure balanced and engaging experiences for players. I actively contribute to the ideation and design process and worked as a Lead Designer/Product Owner for about a year. I’ve utilized tools like ClickUp, Notion and Milanote to streamline the game development process and ensure efficient team collaboration. I love spending time on level design and have developed tools to make it easier and more time-efficient.
+
+I am a data-driven person with an economics background. As such, I place great importance on data analysis and always keep key KPIs in mind when making decisions at nearly every stage of the development process. I have participated in the development of over 100 mobile games, taking on different roles for each one and learning new lessons from every project. Yet, I am ambitious and believe this is just the tip of the iceberg—the best is yet to come!
+
+Want to know more? Check out my projects, repositories, and resume at the top. You can also reach me through any of my contact channels.
