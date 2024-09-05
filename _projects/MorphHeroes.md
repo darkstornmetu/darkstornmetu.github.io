@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Morph Heroes
+description: Swap between heroes to escape
 img: assets/img/MorphHeroesIcon.png
-importance: 1
+importance: 3
 category: Twenty Games
-related_publications: true
+redirect: https://apps.apple.com/us/app/morph-heroes/id1575521844
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
