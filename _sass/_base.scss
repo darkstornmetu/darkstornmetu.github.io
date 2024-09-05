@@ -192,9 +192,17 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 
+.profile-img {
+  max-width: 250px;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
 .profile {
   width: 100%;
-
+  
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
