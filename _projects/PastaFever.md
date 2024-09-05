@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pasta Fever
-description: Your pasta machine is ready. Click fast to speed up the process and feel the satisfaction.
+description: Your pasta machine is ready
 img: assets/img/PastaMakerAppIcon.png
 importance: 2
 category: Twenty Games
