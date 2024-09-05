@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Other Games in Onur Can Erdil's account"
+title: Other Games in Onur Can Erdil\'s account
 description:
 img: assets/img/AppStore.png
 importance: 7
