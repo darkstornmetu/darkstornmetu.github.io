@@ -7,9 +7,15 @@ layout: default
     <p class="post-description">{{ page.description }}</p>
   </header>
 
-  <article>
-    {{ content }}
-  </article>
+  {% if page.justified %}
+    <article>
+      <div class="clearfix text-justify">{{ content }}</div>
+    </article>
+  {% else %}
+    <article>
+      {{ content }}
+    </article>
+  {% endif %}
 
   {% if page.related_publications %}
     <h2>References</h2>
