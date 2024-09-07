@@ -3,4 +3,6 @@
 github_repos:
   - darkstornmetu/PieceSpawner
   - darkstornmetu/ObjectPlacer
+  - darkstornmetu/ShapingShaders
+  - darkstornmetu/ToonWaterShader_URP
 

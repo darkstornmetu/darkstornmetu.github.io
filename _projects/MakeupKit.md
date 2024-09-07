@@ -8,20 +8,50 @@ category: Twenty Games
 justified: true
 ---
 
-<div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/MakeUpKitIcon.png" title="Makeup Kit Icon" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0"> 
+<div>
+    <img src="{{ '/assets/img/MakeUpKitIcon.png' | relative_url }}" alt="Pasta Fever Icon" style="float: left; width: 30%; margin-right: 20px; border-radius: 8px;">
+    <p>
         <a href="https://apps.apple.com/us/app/makeup-kit/id1601985721" target="_blank"><strong>Click Here To Download</strong></a><br><br>
         When the front-stack runners were dominating the market, I had the idea of merging the cpi-friendly beauty concept to the retention proven front-stack runners. With that perspective using brush as a main object which is highly customizable in terms of color and appearance and has the "feeling" with hair animation seemed perfect fit. In the ideation stage, secondary make-up items and the upgrade doors came into the picture, and we were ready to go!
-    </div>
+        <br><br>
+        The initial Facebook CPI values weren't all that marvelous; however,         <a href="https://www.instagram.com/p/CaPktK-DMWS/" target="_blank">fail videos</a> of the game had been watched by over 6 million people in 2 days. Therefore, we were expecting something big from the very start. In the end, Makeup Kit hit the top charts, reached nearly 10 million users worldwide.<br><br>
+        Average Stats: 40%+ D1 Ret, 15+ min. PT, ~0.15$ TikTok CPI, ~0.40$ Facebook CPI 
+    </p>
 </div>
 
-The initial Facebook CPI values weren't all that marvelous; however, [fail gameplay](https://www.instagram.com/p/CaPktK-DMWS/) videos of the game had been watched by over 6 million people in 2 days. Therefore, we were expecting something big from the very start. In the end, Makeup Kit hit the top charts, reached nearly 10 million users worldwide.
+**Here are some most watched gameplay videos from Youtube**
 
-Average Stats: 40%+ D1 Ret, 15+ min. PT, ~0.15$ TikTok CPI, ~0.40$ Facebook CPI
+<iframe width="280" height="533"
+src="https://youtube.com/embed/TbMCcpINS3o?si=W2kjwwvECz0_6-zk"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
 
-<center>
-<iframe src="https://drive.google.com/file/d/1wRFUizcCKZkvl2q7Zj8gzCgtA5EgbjQr/preview" width="640" height="480" allow="autoplay"></iframe>
-</center>
+<iframe width="450" height="282"
+src="https://www.youtube.com/embed/TX46vO723Fs?si=5pWDOr53oUjLEtZm"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share" referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen></iframe>
+
+**Here are some CPI Videos of non-gameplay**
+
+<iframe width="315" height="560"
+src="https://youtube.com/embed/vITjd79KUAU?si=JSOwh8kkLN3B310g"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
+
+<iframe width="315" height="560"
+src="https://youtube.com/embed/reuo_BLZqs8?si=_MqdNNnsqBPVULEC"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
+
