@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Games in my account
+title: Other games in my account
 description:
 img: assets/img/AppStore.png
 importance: 6

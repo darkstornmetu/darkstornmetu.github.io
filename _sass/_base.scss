@@ -1330,3 +1330,20 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* This keeps the aspect ratio 16:9 */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%; /* This ensures the video does not exceed the width of the screen */
+  background: #000;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Games in Onur Can Erdils account
+title: Other games in our second account
 description:
 img: assets/img/AppStore.png
 importance: 7
