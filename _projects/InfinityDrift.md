@@ -15,7 +15,7 @@ giscus_comments: false
     </p>
 </div>
 
-Here’s a showcase of the procedural road generation system used in *Infinity Drift*:
+**Here’s a showcase of the procedural road generation system used in *Infinity Drift:***
 
 <div class="video-container">
   <iframe
@@ -27,7 +27,7 @@ Here’s a showcase of the procedural road generation system used in *Infinity D
   </iframe>
 </div>
 
-Here’s the gameplay of the "Spain" track in *Infinity Drift*, from a newer version of the game:
+**Here’s the gameplay of the "Spain" track in *Infinity Drift*, from a newer version of the game:**
 
 <div class="video-container">
   <iframe
