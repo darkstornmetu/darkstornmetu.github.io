@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Makeup Kit
-description: Pickup your favorite makeup tools
+description: Click here to learn more!
 img: assets/img/MakeUpKitIcon.png
 importance: 1
 category: Twenty Games

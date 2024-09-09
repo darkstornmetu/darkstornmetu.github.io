@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pasta Fever
-description: Your pasta machine is ready
+description: Click here to learn more!
 img: assets/img/PastaMakerAppIcon.png
 importance: 2
 category: Twenty Games

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Infinity Drift
-description:
+description: Click here to learn more!
 img: assets/img/infLogo.png
 importance: 2
 category: Solo
 giscus_comments: false
+justified: true
 ---
 
 <div>
@@ -14,6 +15,8 @@ giscus_comments: false
         I worked on this project back in 2019 when I first started developing games in Unity. Looking back, it was an ambitious project for a beginner, but I learned many things that I otherwise wouldn’t have. I’m glad I started this adventure. Unfortunately, the playable version no longer exists, but I’ll share some images and videos to give you an idea of the game.
     </p>
 </div>
+
+<div style="clear: both;"></div><br>
 
 **Here’s a showcase of the procedural road generation system used in *Infinity Drift:***
 
@@ -25,7 +28,7 @@ giscus_comments: false
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
-</div>
+</div><br>
 
 **Here’s the gameplay of the "Spain" track in *Infinity Drift*, from a newer version of the game:**
 

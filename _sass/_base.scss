@@ -630,6 +630,7 @@ footer.sticky-bottom {
     text-decoration: none;
 
     &:hover {
+      
       .card-title {
         color: var(--global-theme-color);
       }
@@ -638,12 +639,25 @@ footer.sticky-bottom {
 
   .card-title {
        font-size: 1.2rem;
-       margin-top: 0; // Decrease this value to your desired size, like 1.2rem or 1rem
+       margin-top: -0.5rem; // Decrease this value to your desired size, like 1.2rem or 1rem
        margin-bottom: 0.3rem;
   }
 
   .card {
+    position: relative;
+    overflow: hidden;
+
+    &:hover img {
+      transform: scale(1.05); /* Slight zoom-in effect */
+      opacity: 0.8; /* Slight fade */
+    }
+
+    &:hover {
+      cursor: pointer; /* Show pointer on hover */
+    }
+
     img {
+      transition: transform 0.3s ease, opacity 0.3s ease;
       width: 100%;
         // Remove or reduce the top margin to bring it closer to the title
       margin-top: 0;
@@ -658,7 +672,7 @@ footer.sticky-bottom {
   }
 
   .card-body {
-    padding: 0.75rem; // Reduce padding inside the card body
+    padding: 0.5rem; // Reduce padding inside the card body
   }
 
   .col {
