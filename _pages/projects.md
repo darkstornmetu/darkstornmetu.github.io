@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [Twenty Games, Solo]
+display_categories: [Twenty Games, Other]
 horizontal: false
 ---
 

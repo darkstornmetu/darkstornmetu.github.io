@@ -4,7 +4,7 @@ title: Infinity Drift
 description: Click here to learn more!
 img: assets/img/infLogo.png
 importance: 2
-category: Solo
+category: Other
 giscus_comments: false
 justified: true
 ---
