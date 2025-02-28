@@ -2,8 +2,9 @@
 
 github_repos:
   - darkstornmetu/PieceSpawner
-  - darkstornmetu/ObjectPlacer
+  - darkstornmetu/ProceduralPuzzleBlocks
   - darkstornmetu/JellyLink
+  - darkstornmetu/ObjectPlacer
   - darkstornmetu/ShapingShaders
   
 
