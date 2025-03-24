@@ -2,9 +2,12 @@
 
 github_repos:
   - darkstornmetu/PieceSpawner
+  - darkstornmetu/BlockPuzzleLevelEditor
+  - darkstornmetu/UnityCustomPhysicsCPP
   - darkstornmetu/ProceduralPuzzleBlocks
   - darkstornmetu/JellyLink
   - darkstornmetu/ObjectPlacer
+  - darkstornmetu/ToonWaterShader_URP
   - darkstornmetu/ShapingShaders
   
 
